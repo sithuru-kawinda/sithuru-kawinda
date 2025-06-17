@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sithuru Kawinda</h1>
-<h3 align="center">Passionate Computer Science Student | Aspiring Data Scientist & Lecturer</h3>
+<h3>Passionate Computer Science Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Data Science & Machine Learning Projects and Web Development**
-- 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScript, Bootstrap, MySQL**
-- 👨‍🎓 3rd Year CS Student at **University of Sri Jayewardenepura**
-- 💬 Ask me about **Java, Python, Web Development, and AI**
-- 📫 Reach me at: **sithurukawinda@gmail.com**
-- ⚡ Fun fact: I love blending code with creativity 🚀
+-  I’m currently working on **Data Science & Machine Learning Projects and Web Development**
+-  I’m currently learning **Java, Python, HTML, CSS, JavaScript, Bootstrap, MySQL**
+   3rd Year CS Student at **University of Sri Jayewardenepura**
+-  Ask me about **Java, Python, Web Development, and AI**
+-  Reach me at: **sithuru15@gmail.com**
+-  Fun fact: I love blending code with creativity 🚀
 
 ---
 
@@ -25,31 +25,16 @@
 
 ---
 
-### 📊 GitHub Analytics:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SithuruKawinda&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SithuruKawinda&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithuruKawinda&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Let's Connect:
 <p align="left">
   <a href="https://www.linkedin.com/in/sithurukawinda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sithurukawinda@gmail.com">
+  <a href="mailto:sithuru15a@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ From [Sithuru Kawinda](https://github.com/SithuruKawinda)
+⭐ From [Sithuru Kawinda](https://github.com/sithuru-kawinda)
