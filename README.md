@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sithuru Kawinda</h1>
 <h3>Passionate Computer Science Student</h3>
-
-<img align="right" alt="Coding" width="250" height="250" 
-src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm13NW50a28xcjg3OXl4MDRtNzd2eWNsdzR5cHZ6OXRvY3N4emZocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" style="border-radius: 50%">
+<img align="right" alt="Coding" width="250" height="250"
+     src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm13NW50a28xcjg3OXl4MDRtNzd2eWNsdzR5cHZ6OXRvY3N4emZocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"
+     style="border-radius: 50%; object-fit: cover; display: block;">
 
 
 -  I’m followed **Java, Python, HTML, CSS, JavaScript, Bootstrap, MySQL**
