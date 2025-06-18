@@ -5,11 +5,11 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 -  I’m followed **Java, Python, HTML, CSS, JavaScript, Bootstrap, MySQL**
-   3rd Year CS Student at **University of Sri Jayewardenepura** 
+-  I'm 3rd Year CS Student at **University of Sri Jayewardenepura** 
 -  I’m currently working on **Data Science & Machine Learning Projects and Web Development** 
 -  Ask me about **Java, Python, Web Development, and AI** 
 -  Reach me at: **sithuru15@gmail.com**
--    Fun fact: I love blending code with creativity 🚀
+-  Fun fact: I love blending code with creativity 🚀
 
 ---
 
