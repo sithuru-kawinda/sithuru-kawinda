@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Computer Science Student | Tech Explorer | Creative Coder 🚀</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2a/9c/2f/2a9c2f4c76a5a139d25141d3fcf6c3a2.gif" alt="Coding Animation" width="500"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGg2N3NpbXFlMnNyencwM2h2enQ5ZWtnOHNoNWx4MGJzeXUxYXhoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif" alt="Coding Animation" width="500"/>
 </p>
 
 ---
