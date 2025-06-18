@@ -37,4 +37,4 @@
 
 ---
 
-⭐ From [Sithuru Kawinda](https://github.com/sithuru-kawinda)
+⭐ From [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sithuru-kawinda)
