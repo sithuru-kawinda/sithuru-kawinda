@@ -27,14 +27,17 @@
 
 ### 🌐 Let's Connect:
 <p align="left">
+  <a href="https://github.com/sithuru-kawinda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
   <a href="https://www.linkedin.com/in/sithurukawinda/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sithuru15a@gmail.com">
+  <a href="mailto:sithuru15@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-⭐ From [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/sithuru-kawinda)
+⭐ From [Sithuru Kawinda](https://github.com/sithuru-kawinda)
