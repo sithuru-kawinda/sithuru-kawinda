@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
--  I’m followed **Java, Python, HTML, CSS, JavaScript, Bootstrap, MySQL**
+-  I’m followed **Java, Python, HTML, CSS, JavaScript, Bootstrap, React, MySQL**
 -  I'm 3rd Year CS Student at **University of Sri Jayewardenepura** 
 -  I’m currently working on **Data Science & Machine Learning Projects and Web Development** 
 -  Ask me about **Java, Python, Web Development, and AI** 
